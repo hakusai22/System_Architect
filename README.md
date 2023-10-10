@@ -71,6 +71,8 @@
 
 ## 4. B站免费视频知识点讲解复习 
 - https://www.bilibili.com/video/BV1YV411Y7t4/?spm_id_from=333.999.0.0&vd_source=5c4d3e12d3512ed84532d27dcef8ab0d
+- https://www.bilibili.com/video/BV1wD4y1q7ni/?spm_id_from=333.337.search-card.all.click&vd_source=5c4d3e12d3512ed84532d27dcef8ab0d
+- https://www.bilibili.com/video/BV1Ak4y1s7Hd/?spm_id_from=333.337.search-card.all.click&vd_source=5c4d3e12d3512ed84532d27dcef8ab0d
 
 
 ## 5. 相关知识点网站的资料复习
