@@ -54,18 +54,23 @@
 [linkedin-url]: https://linkedin.com/in/xxxx
 
 
-## 1. 视频资料 (30天到期)
+## 1. 视频资料复习 (30天到期)
 - ![img.png](img.png)
 - 链接: https://pan.baidu.com/s/1wdLPmv5td6F4R99vjjkX6g 提取码: 95tp
 
-## 2. 视频资料 (30天到期)
+## 2. 视频资料复习 (30天到期)
 - ![img_1.png](img_1.png)
 - ![img_2.png](img_2.png)
 - 2023年系统架构设计师视频 https://www.aliyundrive.com/s/fe4qxWFk5u5
 
-## 3. 知识点网站阅读
+## 3. 知识点网站阅读复习
 - https://github.com/lisahust/FDExam_Note
 - https://lisahust.github.io/notebook1_web/
 
-## 4. B站免费视频知识点讲解 
+## 4. B站免费视频知识点讲解复习 
 - https://www.bilibili.com/video/BV1YV411Y7t4/?spm_id_from=333.999.0.0&vd_source=5c4d3e12d3512ed84532d27dcef8ab0d
+
+
+## 5. 相关知识点网站的资料复习
+- https://blog.csdn.net/weixin_30197685/article/details/132797803?app_version=6.1.4&utm_source=app
+- https://wangxiao.xisaiwang.com/shipin2/v280007661.html
