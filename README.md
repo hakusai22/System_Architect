@@ -1,2 +1,68 @@
 # System_Architect
-2023年系统架构设计师（软考高级）
+2023年系统架构设计师准备（软考高级）
+
+# System_Architect
+
+System_Architect 学习记录
+
+<!-- PROJECT SHIELDS -->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![MIT License][license-shield]][license-url]
+![GitHub top language](https://img.shields.io/github/languages/top/hakusai22/System_Architect?style=for-the-badge)
+
+<!-- PROJECT LOGO -->
+<br />
+
+
+
+<p align="center">
+    <a href="https://github.com/hakusai22/System_Architect/">
+    </a>
+    <h3 align="center">2023年系统架构设计师准备（软考高级） 🔞</h3>
+  <p align="center">
+    ·
+    <a href="https://github.com/hakusai22/System_Architect/issues">报告Bug</a>
+    ·
+    <a href="https://github.com/hakusai22/System_Architect/issues">提出新特性</a>
+  </p>
+
+<!-- links -->
+
+[your-project-path]:hakusai22/System_Architect
+
+[contributors-shield]: https://img.shields.io/github/contributors/hakusai22/System_Architect.svg?style=for-the-badge
+
+[contributors-url]: https://github.com/hakusai22/System_Architect/graphs/contributors
+
+[forks-shield]: https://img.shields.io/github/forks/hakusai22/System_Architect.svg?style=for-the-badge
+
+[forks-url]: https://github.com/hakusai22/System_Architect/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/hakusai22/System_Architect.svg?style=for-the-badge
+
+[stars-url]: https://github.com/hakusai22/System_Architect/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues/hakusai22/System_Architect.svg?style=for-the-badge
+
+[issues-url]: https://img.shields.io/github/issues/hakusai22/System_Architect.svg
+
+[license-shield]: https://img.shields.io/github/license/hakusai22/System_Architect.svg?style=for-the-badge
+
+[license-url]: https://github.com/hakusai22/System_Architect/blob/master/LICENSE
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
+[linkedin-url]: https://linkedin.com/in/xxxx
+
+
+## 1. 视频资料 (30天到期)
+- ![img.png](img.png)
+- 链接: https://pan.baidu.com/s/1wdLPmv5td6F4R99vjjkX6g 提取码: 95tp
+
+## 2. 视频资料 (30天到期)
+- ![img_1.png](img_1.png)
+- ![img_2.png](img_2.png)
+- 2023年系统架构设计师视频 https://www.aliyundrive.com/s/fe4qxWFk5u5
