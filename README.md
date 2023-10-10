@@ -53,6 +53,8 @@
 
 [linkedin-url]: https://linkedin.com/in/xxxx
 
+## 手机App刷题--软考通 免费
+![img_3.png](img_3.png)
 
 ## 1. 视频资料复习 (30天到期)
 - ![img.png](img.png)
@@ -78,3 +80,4 @@
 ## 5. 相关知识点网站的资料复习
 - https://blog.csdn.net/weixin_30197685/article/details/132797803?app_version=6.1.4&utm_source=app
 - https://wangxiao.xisaiwang.com/shipin2/v280007661.html
+- https://zhuanlan.zhihu.com/p/338502562
