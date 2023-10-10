@@ -1,9 +1,5 @@
 # System_Architect
-2023年系统架构设计师准备（软考高级）
-
-# System_Architect
-
-System_Architect 学习记录
+2023年系统架构设计师准备（软考高级） 一个月时间备考 11月3/4号 考试 (机考)
 
 <!-- PROJECT SHIELDS -->
 
@@ -66,3 +62,7 @@ System_Architect 学习记录
 - ![img_1.png](img_1.png)
 - ![img_2.png](img_2.png)
 - 2023年系统架构设计师视频 https://www.aliyundrive.com/s/fe4qxWFk5u5
+
+## 3. 知识点网站阅读
+- https://github.com/lisahust/FDExam_Note
+- https://lisahust.github.io/notebook1_web/
