@@ -66,3 +66,6 @@
 ## 3. 知识点网站阅读
 - https://github.com/lisahust/FDExam_Note
 - https://lisahust.github.io/notebook1_web/
+
+## 4. B站免费视频知识点讲解 
+- https://www.bilibili.com/video/BV1YV411Y7t4/?spm_id_from=333.999.0.0&vd_source=5c4d3e12d3512ed84532d27dcef8ab0d
