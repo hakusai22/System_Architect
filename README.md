@@ -68,13 +68,13 @@
 - https://www.aliyundrive.com/s/fe4qxWFk5u5
 
 ## 3. 知识点网站阅读复习
-- https://github.com/lisahust/FDExam_Note
+- 
 - https://lisahust.github.io/notebook1_web/
 
 ## 4. B站免费视频知识点讲解复习 
-- https://www.bilibili.com/video/BV1YV411Y7t4/?spm_id_from=333.999.0.0&vd_source=5c4d3e12d3512ed84532d27dcef8ab0d
-- https://www.bilibili.com/video/BV1wD4y1q7ni/?spm_id_from=333.337.search-card.all.click&vd_source=5c4d3e12d3512ed84532d27dcef8ab0d
-- https://www.bilibili.com/video/BV1Ak4y1s7Hd/?spm_id_from=333.337.search-card.all.click&vd_source=5c4d3e12d3512ed84532d27dcef8ab0d
+- [软考高级系统架构设计师视频教程录播直播资料真题课程案例论文文老师软考教育](https://www.bilibili.com/video/BV1YV411Y7t4/?spm_id_from=333.999.0.0&vd_source=5c4d3e12d3512ed84532d27dcef8ab0d)
+- [系统架构设计师](https://www.bilibili.com/video/BV1wD4y1q7ni/?spm_id_from=333.337.search-card.all.click&vd_source=5c4d3e12d3512ed84532d27dcef8ab0d)
+- [软考系统架构设计师教程精讲视频](https://www.bilibili.com/video/BV1Ak4y1s7Hd/?spm_id_from=333.337.search-card.all.click&vd_source=5c4d3e12d3512ed84532d27dcef8ab0d)
 
 
 ## 5. 相关知识点网站的资料复习
@@ -82,3 +82,4 @@
 - [系统架构设计师新版教程解读公开课](https://wangxiao.xisaiwang.com/shipin2/v280007661.html)
 - [复习七天通过软考高级系统架构师](https://zhuanlan.zhihu.com/p/338502562)
 - [博客园系统架构师知识点总结](https://www.cnblogs.com/Tiancheng-Duan/tag/%E6%9E%B6%E6%9E%84/)
+- [软考高级系统架构师论文到底该怎么写](https://mp.weixin.qq.com/s/E97YA-VktIoEmOCwZ2EUqg)
