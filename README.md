@@ -66,10 +66,10 @@
 - ![img_2.png](img_2.png)
 - 2023年系统架构设计师视频 
 - https://www.aliyundrive.com/s/fe4qxWFk5u5
+- 系统架构设计师备考资料 链接：https://www.aliyundrive.com/s/ob1o2BeaVMb 提取码: 4v3y
 
 ## 3. 知识点网站阅读复习
-- 
-- https://lisahust.github.io/notebook1_web/
+- [基本知识点笔记](https://lisahust.github.io/notebook1_web/)
 
 ## 4. B站免费视频知识点讲解复习 
 - [软考高级系统架构设计师视频教程录播直播资料真题课程案例论文文老师软考教育](https://www.bilibili.com/video/BV1YV411Y7t4/?spm_id_from=333.999.0.0&vd_source=5c4d3e12d3512ed84532d27dcef8ab0d)
