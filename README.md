@@ -58,15 +58,13 @@
 
 ## 1. 视频资料复习 (30天到期)
 - ![img.png](img.png)
-- 链接: https://pan.baidu.com/s/1wdLPmv5td6F4R99vjjkX6g 
-- 提取码: 95tp
+- 链接: https://pan.baidu.com/s/1wdLPmv5td6F4R99vjjkX6g  提取码: 95tp
 
 ## 2. 视频资料复习 (30天到期)
 - ![img_1.png](img_1.png)
 - ![img_2.png](img_2.png)
-- 2023年系统架构设计师视频 
-- https://www.aliyundrive.com/s/fe4qxWFk5u5
-- 系统架构设计师备考资料 链接：https://www.aliyundrive.com/s/ob1o2BeaVMb 提取码: 4v3y
+- 2023年系统架构设计师视频  https://www.aliyundrive.com/s/fe4qxWFk5u5
+- 2023年系统架构设计师备考资料 链接：https://www.aliyundrive.com/s/ob1o2BeaVMb 提取码: 4v3y
 
 ## 3. 知识点网站阅读复习
 - [基本知识点笔记](https://lisahust.github.io/notebook1_web/)
