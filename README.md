@@ -78,6 +78,7 @@
 
 
 ## 5. 相关知识点网站的资料复习
-- https://blog.csdn.net/weixin_30197685/article/details/132797803?app_version=6.1.4&utm_source=app
-- https://wangxiao.xisaiwang.com/shipin2/v280007661.html
-- https://zhuanlan.zhihu.com/p/338502562
+- [CSDN 基本知识点总结](https://blog.csdn.net/weixin_30197685/article/details/132797803?app_version=6.1.4&utm_source=app)
+- [系统架构设计师新版教程解读公开课](https://wangxiao.xisaiwang.com/shipin2/v280007661.html)
+- [复习七天通过软考高级系统架构师](https://zhuanlan.zhihu.com/p/338502562)
+- [博客园系统架构师知识点总结](https://www.cnblogs.com/Tiancheng-Duan/tag/%E6%9E%B6%E6%9E%84/)
