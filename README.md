@@ -93,8 +93,9 @@
 ##  个人复习记录表
 
 ### 10月12号 案例/论文复习
--  https://mafgwo.cn/2022/06/09/1215_jiagouanlitaolu-other/ 可靠性与安全设计案例分析
--  https://mafgwo.cn/2022/06/08/1214_jiagouanlitaolu-database/  数据库案例分析
--  https://mafgwo.cn/2022/08/28/1218_jiagoulunwen-self/ 架构评估方法
--  https://mafgwo.cn/2022/06/16/1216_jiagoulunwentaolu/ 系统架构设计师论文套路 
--  https://mafgwo.cn/2022/08/28/1218_jiagoulunwen-self/ 同一个项目背景不同主题三篇及格论文
+- https://mafgwo.cn/2022/06/09/1215_jiagouanlitaolu-other/ 可靠性与安全设计案例分析
+- https://mafgwo.cn/2022/06/08/1214_jiagouanlitaolu-database/  数据库案例分析
+- https://mafgwo.cn/2022/06/07/1211_jiagouanlitaolu-ruanjiangongcheng/ 软件工程案例分析
+- https://mafgwo.cn/2022/08/28/1218_jiagoulunwen-self/ 架构评估方法
+- https://mafgwo.cn/2022/06/16/1216_jiagoulunwentaolu/ 系统架构设计师论文套路 
+- https://mafgwo.cn/2022/08/28/1218_jiagoulunwen-self/ 同一个项目背景不同主题三篇及格论文
