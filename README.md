@@ -2,6 +2,8 @@
 - 2023年系统架构设计师准备（软考高级） 一个月时间备考 11月3/4号 考试 (机考)
 - 有没有浙江省杭州一起考试的同学,到时候可以一起去哦, dd 🐧:960303802
 
+![img_4.png](img_4.png)
+
 <!-- PROJECT SHIELDS -->
 
 [![Contributors][contributors-shield]][contributors-url]
