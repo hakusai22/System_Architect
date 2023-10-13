@@ -104,3 +104,5 @@
 ### 10月13号 选择题/案例/论文复习
 - 刷 软考app选择题
 - 看 案例分析/案例必背.docx 
+- 看 2020年下午案例 (架构风格(管道/仓库必背知识点)+关系型数据库(表的设计/超类实体/派生属性)+Redis+Web系统架构) https://ebook.qicoder.com/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%B8%88/notes/2020%E6%9E%B6%E6%9E%84%E4%B8%8B%E5%8D%88%E6%A1%88%E4%BE%8B%E9%A2%98.html
+- 看 2019年下午案例 (架构风格[独立构件风格(基于规则/面向对象)]+数据流图+分布式数据库+web系统架构) https://ebook.qicoder.com/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%B8%88/notes/2019%E5%B9%B4%E6%9E%B6%E6%9E%84%E4%B8%8B%E5%8D%88%E9%A2%98.html
