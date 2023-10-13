@@ -72,6 +72,7 @@
 
 ## 3. 知识点网站阅读复习
 - [基本知识点笔记](https://lisahust.github.io/notebook1_web/)
+- [系统架构设计师历年真题含答案与解析历年真题](https://ebook.qicoder.com/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%B8%88/)
 
 ## 4. B站免费视频知识点讲解复习 
 - [软考高级系统架构设计师视频教程录播直播资料真题课程案例论文文老师软考教育](https://www.bilibili.com/video/BV1YV411Y7t4/?spm_id_from=333.999.0.0&vd_source=5c4d3e12d3512ed84532d27dcef8ab0d)
@@ -106,3 +107,6 @@
 - 看 案例分析/案例必背.docx 
 - 看 2020年下午案例 (架构风格(管道/仓库必背知识点)+关系型数据库(表的设计/超类实体/派生属性)+Redis+Web系统架构) https://ebook.qicoder.com/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%B8%88/notes/2020%E6%9E%B6%E6%9E%84%E4%B8%8B%E5%8D%88%E6%A1%88%E4%BE%8B%E9%A2%98.html
 - 看 2019年下午案例 (架构风格[独立构件风格(基于规则/面向对象)]+数据流图+分布式数据库+web系统架构) https://ebook.qicoder.com/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%B8%88/notes/2019%E5%B9%B4%E6%9E%B6%E6%9E%84%E4%B8%8B%E5%8D%88%E9%A2%98.html
+- 《一张图辅助记忆软件架构风格》https://juejin.cn/post/7142871629767376903 https://juejin.cn/post/7144764151955456014
+- 《知识产权与标准化》https://juejin.cn/post/7142122434685042725
+- 《论文复习大纲和模板》https://juejin.cn/post/7130260243958726664
