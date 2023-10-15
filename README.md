@@ -69,7 +69,7 @@
 - ![img_2.png](img_2.png)
 - 2023年系统架构设计师视频  https://www.aliyundrive.com/s/fe4qxWFk5u5
 - 2023年系统架构设计师备考资料 链接：https://www.aliyundrive.com/s/ob1o2BeaVMb 提取码: 4v3y
-
+- 系统架构设计师 百度网盘：链接: https://pan.baidu.com/s/19LEiYbYIwnhBqheOiemOzg 密码:ghjh
 ## 3. 知识点网站阅读复习
 - [基本知识点笔记](https://lisahust.github.io/notebook1_web/)
 - [系统架构设计师历年真题含答案与解析历年真题](https://ebook.qicoder.com/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%B8%88/)
@@ -110,3 +110,10 @@
 - 《一张图辅助记忆软件架构风格》https://juejin.cn/post/7142871629767376903 https://juejin.cn/post/7144764151955456014
 - 《知识产权与标准化》https://juejin.cn/post/7142122434685042725
 - 《论文复习大纲和模板》https://juejin.cn/post/7130260243958726664
+
+### 10月14号 
+- [系统架构设计师论文](https://blog.csdn.net/sinat_31152963/category_10672942.html)
+- [软考高级系统架构师论文到底该怎么写](https://mp.weixin.qq.com/s/E97YA-VktIoEmOCwZ2EUqg)
+- [希赛官方的真题集锦](https://www.educity.cn/rk/zhenti/jiagou/)
+- [公开真题吧](https://www.gkzenti.cn/paper?cls=%E8%BD%AF%E8%80%83&province=%E9%AB%98%E7%BA%A7_%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%B8%88)
+- 系统架构设计师 百度网盘：链接: https://pan.baidu.com/s/19LEiYbYIwnhBqheOiemOzg 密码:ghjh
