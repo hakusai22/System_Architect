@@ -125,25 +125,29 @@
   - 五种架构风格 (数据流/仓库/调用返回/独立构件/虚拟机) [一张图快速了解五大架构风格](https://zhuanlan.zhihu.com/p/429046857)
   - 典型层次架构 (mvc/mvp) [MVC MVP MVVM Redux 架构介绍](https://zhuanlan.zhihu.com/p/59814282)
   - 面向服务的架构 [面向服务的架构（SOA）它的优点是什么，可应用于哪些领域](https://www.zhihu.com/question/450799639/answer/1800986029)
-    - SOA 面向服务的架构 一种概念和思想
+    - SOA 面向服务的架构 一种概念和思想 [如何理解SOA,SOAP,RPC, REST 协议及其之间的关系](https://zhuanlan.zhihu.com/p/489185800)
       - UDDI 统一描述发现集成
       - WSDL 面向服务描述语言
       - SOAP 简单对象访问协议 (基于任何传输协议，TCP,HTTP,SMTP,MSMQ)
       - REST  表征状态转移 HTTP 方法 (GET/PUT/POST/DELETE)
       - BPEL 面向Web服务流程处理语言
-      - [如何理解SOA,SOAP,RPC, REST 协议及其之间的关系](https://zhuanlan.zhihu.com/p/489185800)
     - SOA 技术实现
       - Web服务
       - 企业总线 ESB
     - 微服务
       - 微服务和SOA区别
-  - 软件质量属性 8个 [系统架构设计师-软件质量属性](https://zhuanlan.zhihu.com/p/405478863)
-    - 性能
-    - 可靠性
-    - 可用性
-    - 安全性
-    - 可修改性
-    - 功能性
-    - 可变性
-    - 互操作性
+
+  - [软件架构评估](https://zhuanlan.zhihu.com/p/564144022)
+    - 软件质量属性 8个  [系统架构设计师-软件质量属性](https://zhuanlan.zhihu.com/p/405478863)
+      - 性能
+      - 可靠性
+      - 可用性
+      - 安全性
+      - 可修改性
+      - 功能性
+      - 可变性
+      - 互操作性
+    - 敏感点、权衡点、风险点、非风险点
+    - 软件架构分析法 SAAM
+    - 架构权衡分析法 ATAM
 - 案例准备/案例分析知识点汇总
