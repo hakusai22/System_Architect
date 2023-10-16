@@ -122,32 +122,53 @@
 
 ### 10月16号 案例分析/论文
 - 看案例必背知识点
-  - 五种架构风格 (数据流/仓库/调用返回/独立构件/虚拟机) [一张图快速了解五大架构风格](https://zhuanlan.zhihu.com/p/429046857)
-  - 典型层次架构 (mvc/mvp) [MVC MVP MVVM Redux 架构介绍](https://zhuanlan.zhihu.com/p/59814282)
-  - 面向服务的架构 [面向服务的架构（SOA）它的优点是什么，可应用于哪些领域](https://www.zhihu.com/question/450799639/answer/1800986029)
-    - SOA 面向服务的架构 一种概念和思想 [如何理解SOA,SOAP,RPC, REST 协议及其之间的关系](https://zhuanlan.zhihu.com/p/489185800)
-      - UDDI 统一描述发现集成
-      - WSDL 面向服务描述语言
-      - SOAP 简单对象访问协议 (基于任何传输协议，TCP,HTTP,SMTP,MSMQ)
-      - REST  表征状态转移 HTTP 方法 (GET/PUT/POST/DELETE)
-      - BPEL 面向Web服务流程处理语言
-    - SOA 技术实现
-      - Web服务
-      - 企业总线 ESB
-    - 微服务
-      - 微服务和SOA区别
-
-  - [软件架构评估](https://zhuanlan.zhihu.com/p/564144022)
-    - 软件质量属性 8个  [系统架构设计师-软件质量属性](https://zhuanlan.zhihu.com/p/405478863)
-      - 性能
-      - 可靠性
-      - 可用性
-      - 安全性
-      - 可修改性
-      - 功能性
-      - 可变性
-      - 互操作性
-    - 敏感点、权衡点、风险点、非风险点
-    - 软件架构分析法 SAAM
-    - 架构权衡分析法 ATAM
+  - 软件架构设计  
+    - 架构风格 
+      - (数据流/仓库/调用返回/独立构件/虚拟机) [一张图快速了解五大架构风格](https://zhuanlan.zhihu.com/p/429046857)
+    - 典型层次架构 (mvc/mvp) [MVC MVP MVVM Redux 架构介绍](https://zhuanlan.zhihu.com/p/59814282)
+    - 面向服务的架构 [面向服务的架构（SOA）它的优点是什么，可应用于哪些领域](https://www.zhihu.com/question/450799639/answer/1800986029)
+      - SOA 面向服务的架构 一种概念和思想 [如何理解SOA,SOAP,RPC, REST 协议及其之间的关系](https://zhuanlan.zhihu.com/p/489185800)
+        - UDDI 统一描述发现集成
+        - WSDL 面向服务描述语言
+        - SOAP 简单对象访问协议 (基于任何传输协议，TCP,HTTP,SMTP,MSMQ)
+        - REST  表征状态转移 HTTP 方法 (GET/PUT/POST/DELETE)
+        - BPEL 面向Web服务流程处理语言
+      - SOA 技术实现
+        - Web服务
+        - 企业总线 ESB
+      - 微服务
+        - 微服务和SOA区别
+    - [软件架构评估](https://zhuanlan.zhihu.com/p/564144022)
+      - 软件质量属性 8个  [系统架构设计师-软件质量属性](https://zhuanlan.zhihu.com/p/405478863)
+        - 性能
+        - 可靠性
+        - 可用性
+        - 安全性
+        - 可修改性
+        - 功能性
+        - 可变性
+        - 互操作性
+      - 架构风险
+        - 敏感点、权衡点、风险点、非风险点
+      - 软件架构分析法 SAAM
+      - 架构权衡分析法 ATAM
+  - 数据库
+    - redis和memcached比较
+    - 数据库读写分离
+      - 主从复制
+      - 数据库拆分
+        - 水平/垂直
+      - 反规范化
+        - 增加冗余列/派生列/重新组表/水平分割表/垂直分割表
+  - 系统安全
+    - 对称加密/非对称加密/数据库加解密
+  - 设计模式
+  - 系统需求分析
+    - DFD 数据流图
+      - 数据流：箭头。外部实体：矩形。加工：圆角矩形。数据存储：右侧开放矩形
+    - UML
+    - 类图
+      - 类之间的关系包括：关联、聚合、组合、依赖、泛化
+  - 系统的可靠性分析与设计
+  - 项目管理
 - 案例准备/案例分析知识点汇总
