@@ -119,3 +119,31 @@
 - [希赛官方的真题集锦](https://www.educity.cn/rk/zhenti/jiagou/)
 - [公开真题吧](https://www.gkzenti.cn/paper?cls=%E8%BD%AF%E8%80%83&province=%E9%AB%98%E7%BA%A7_%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%B8%88)
 - 系统架构设计师 百度网盘：链接: https://pan.baidu.com/s/19LEiYbYIwnhBqheOiemOzg 密码:ghjh
+
+### 10月16号 案例分析/论文
+- 看案例必背知识点
+  - 五种架构风格 (数据流/仓库/调用返回/独立构件/虚拟机)
+  - 典型层次架构 (mvc/mvp)
+  - 面向服务的架构 
+    - SOA 面向服务的架构 一种概念和思想
+      - UDDI 统一描述发现集成
+      - WSDL 面向服务描述语言
+      - SOAP 简单对象访问协议 (基于任何传输协议，TCP,HTTP,SMTP,MSMQ)
+      - REST  表征状态转移 HTTP 方法 (GET/PUT/POST/DELETE)
+      - BPEL 面向Web服务流程处理语言
+      - [如何理解SOA,SOAP,RPC, REST 协议及其之间的关系](https://zhuanlan.zhihu.com/p/489185800)
+    - SOA 技术实现
+      - Web服务
+      - 企业总线 ESB
+    - 微服务
+      - 微服务和SOA区别
+  - 软件质量属性 8个
+    - 性能
+    - 可靠性
+    - 可用性
+    - 安全性
+    - 可修改性
+    - 功能性
+    - 可变性
+    - 互操作性
+- 案例准备/案例分析知识点汇总
