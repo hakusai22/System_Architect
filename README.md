@@ -111,6 +111,8 @@
 - 《知识产权与标准化》https://juejin.cn/post/7142122434685042725
 - 《论文复习大纲和模板》https://juejin.cn/post/7130260243958726664
 
+### 10月14号 休息
+
 ### 10月15号 
 - [系统架构设计师论文](https://blog.csdn.net/sinat_31152963/category_10672942.html)
 - [软考高级系统架构师论文到底该怎么写](https://mp.weixin.qq.com/s/E97YA-VktIoEmOCwZ2EUqg)
