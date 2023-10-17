@@ -120,7 +120,7 @@
 - [公开真题吧](https://www.gkzenti.cn/paper?cls=%E8%BD%AF%E8%80%83&province=%E9%AB%98%E7%BA%A7_%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%B8%88)
 - 系统架构设计师 百度网盘：链接: https://pan.baidu.com/s/19LEiYbYIwnhBqheOiemOzg 密码:ghjh
 
-### 10月16号 案例分析/论文
+### 10月16号 案例分析
 - 看案例必背知识点
   - 软件架构设计  
     - 架构风格 五大
@@ -178,4 +178,6 @@
     - ER图
   - 系统的可靠性分析与设计
   - 项目管理
-- 案例准备/案例分析知识点汇总
+
+### 10月17号 案例分析
+- 案例分析知识点汇总
