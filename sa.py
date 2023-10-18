@@ -1,3 +1,4 @@
+import math
 from bisect import bisect_left, bisect_right, insort_left, insort_right, insort, bisect
 from math import ceil, floor, pow, gcd, sqrt, log10, fabs, fmod, factorial, inf, pi, e
 from heapq import heapify, heapreplace, heappush, heappop, heappushpop, nlargest, nsmallest
@@ -36,3 +37,5 @@ def end(r=-1):
 
 if __name__ == '__main__':
     print("系统架构师")
+    print(10 ** 5)
+    print(math.log2(10 ** 5))
