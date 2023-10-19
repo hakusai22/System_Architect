@@ -186,3 +186,6 @@
 - 23年系统架构设计师考前20问.docx
 - 2023年11月架构设计师重要知识点100条.pdf
 - https://developer.aliyun.com/article/885770
+
+### 10月19号
+- [软考机考系统操作指南](https://www.bilibili.com/video/BV12Q4y1s7n3/?spm_id_from=333.337.search-card.all.click&vd_source=5c4d3e12d3512ed84532d27dcef8ab0d)
