@@ -189,3 +189,12 @@
 
 ### 10月19号
 - [软考机考系统操作指南](https://www.bilibili.com/video/BV12Q4y1s7n3/?spm_id_from=333.337.search-card.all.click&vd_source=5c4d3e12d3512ed84532d27dcef8ab0d)
+
+### 10月20号
+- 系统架构设计师考试笔记.pdf
+- 23年架构师易混淆知识点精简版.docx
+- 23年架构师考前几页纸.docx
+- 23年系统架构师论文模板（水印版）(2).docx
+- 2023年11月系统架构设计师易混淆知识点.pdf
+- 23年软考架构设计师《知识点集锦》备考精华(1)(1).docx
+- 23年系统架构设计师考前20问.docx
