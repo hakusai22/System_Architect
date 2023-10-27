@@ -224,3 +224,9 @@
   - 2019年上午真题
 - [ ] 论文视频刷完
 ![img_6.png](img_6.png)
+
+- (McCabe度量方法计算程序复杂度)[https://blog.csdn.net/qq_43448856/article/details/123520356]
+
+## 10月26号 休息
+
+## 10月27号 
