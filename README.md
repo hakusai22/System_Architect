@@ -241,5 +241,11 @@
 ## 10月29号 
 - 
 
-## 10月30号 
+## 10月30号 星期一 
+- 看完论文视频 干到凌晨2点 
+- ![img_9.png](img_9.png)
+- 根据自己项目写出一些通用模版 https://www.yuque.com/hakusai/gkr7pp/ob7v3l1dp0cyyb8g
+- 看完基础案例知识点 进行截图总结 https://www.yuque.com/hakusai/gkr7pp/ui5px2okz3x272so
+
+## 10月31号 星期二
 - 
