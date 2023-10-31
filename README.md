@@ -59,8 +59,9 @@
 
 [linkedin-url]: https://linkedin.com/in/xxxx
 
-## 手机App刷题--软考通 免费
-![img_3.png](img_3.png)
+## 手机App刷题--软考通 免费  芝士架构 免费
+![img_3.png](img_3.png) 
+![img_7.png](img_7.png)
 
 ## 1. 视频资料复习 (30天到期)
 - ![img.png](img.png)
