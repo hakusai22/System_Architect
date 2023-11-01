@@ -252,3 +252,5 @@
 - 知识产权 https://www.yuque.com/hakusai/gkr7pp/pz9xgk493mn94rmx
 - 软件架构风格 质量属性 https://www.yuque.com/hakusai/gkr7pp/pz9xgk493mn94rmx
 - 软件工程 https://www.yuque.com/hakusai/gkr7pp/pz9xgk493mn94rmx#qacpD
+
+## 11月1号 星期三 最后三天
