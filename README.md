@@ -251,3 +251,4 @@
 - 案例 信息系统 层次架构 云原生 面向服务soa 微服务 https://www.yuque.com/hakusai/gkr7pp/ui5px2okz3x272so
 - 知识产权 https://www.yuque.com/hakusai/gkr7pp/pz9xgk493mn94rmx
 - 软件架构风格 质量属性 https://www.yuque.com/hakusai/gkr7pp/pz9xgk493mn94rmx
+- 软件工程 https://www.yuque.com/hakusai/gkr7pp/pz9xgk493mn94rmx#qacpD
