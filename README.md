@@ -1,16 +1,20 @@
 # System_Architect
 
-- 所有资料都是网上收集过来的 或者本人购买的
+- 所有资料都是网上收集过来的 或者本人购买的 一个月后就过期了
 - 2023年系统架构设计师准备（软考高级） 一个月时间备考 11月3/4号 考试 (机考)
 - 有没有浙江省杭州一起考试的同学,到时候可以一起去哦, wx: hakusai22
 - 浙江工业大学屏峰校区 考试 wx: hakusai22
 
-- 浙工大很美 下次不来了 食堂吃饭是别的同学刷的卡
+- 浙工大很美 下次不来了 麻辣香锅 食堂吃饭是别的同学刷的卡
 - ![img_10.png](img_10.png)
 - ![img_11.png](img_11.png)
-  ![img_8.png](img_8.png)
+- ![img_13.png](img_13.png)
+- ![img_8.png](img_8.png)
 
-![img_4.png](img_4.png)
+- ![img_4.png](img_4.png)
+
+<h3> 芜湖 下午买的车就到了 </h3>
+- ![img_12.png](img_12.png)
 
 <!-- PROJECT SHIELDS -->
 
@@ -64,7 +68,7 @@
 
 [linkedin-url]: https://linkedin.com/in/xxxx
 
-## 手机App刷题--软考通 免费  芝士架构 免费
+## 手机App刷题--软考通 免费  芝士架构 免费(芝士架构微信群还是有很多活跃的小伙伴 一起交流 押题) 
 
 ![img_3.png](img_3.png)
 ![img_7.png](img_7.png)
