@@ -5,9 +5,11 @@
 <a href="https://github.com/hakusai22/System_Architect/">
     <img src="https://img.shields.io/github/contributors/hakusai22/System_Architect" >
 </a>
+&nbsp;
 <a href="https://github.com/hakusai22/System_Architect/">
     <img src="https://img.shields.io/github/forks/hakusai22/System_Architect" >
 </a>
+&nbsp;
 <a href="https://github.com/hakusai22/System_Architect/">
     <img src="https://img.shields.io/github/stars/hakusai22/System_Architect" >
 </a>
