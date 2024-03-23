@@ -1,16 +1,16 @@
 # 2023年系统架构设计师准备（软考高级）
 
-- ![img_14.png](img_14.png)
-- ![img_10.png](img_10.png)
-- ![img_11.png](img_11.png)
-- ![img_13.png](img_13.png)
-- ![img_8.png](img_8.png)
+- ![img_14.png](image/img_14.png)
+- ![img_10.png](image/img_10.png)
+- ![img_11.png](image/img_11.png)
+- ![img_13.png](image/img_13.png)
+- ![img_8.png](image/img_8.png)
 
-- ![img_4.png](img_4.png)
+- ![img_4.png](image/img_4.png)
 
 <h3> 芜湖 下午买的车就到了 </h3>
 
-- ![img_12.png](img_12.png)
+- ![img_12.png](image/img_12.png)
 
 <br />
 
@@ -27,21 +27,21 @@
 
 ### 手机App刷题--软考通 免费  芝士架构 免费(芝士架构微信群还是有很多活跃的小伙伴 一起交流 押题) (wx群被解散了)
 
-![img_3.png](img_3.png)
-![img_7.png](img_7.png)
+![img_3.png](image/img_3.png)
+![img_7.png](image/img_7.png)
 
 > 买了本书没事看看
-![img_15.png](img_15.png)
+![img_15.png](image/img_15.png)
 
 ## 1. 视频资料复习 (30天到期)
 
-- ![img.png](img.png)
+- ![img.png](image/img.png)
 - 链接: https://pan.baidu.com/s/1wdLPmv5td6F4R99vjjkX6g  提取码: 95tp
 
 ## 2. 视频资料复习 (30天到期)
 
-- ![img_1.png](img_1.png)
-- ![img_2.png](img_2.png)
+- ![img_1.png](image/img_1.png)
+- ![img_2.png](image/img_2.png)
 - 2023年系统架构设计师视频  https://www.aliyundrive.com/s/fe4qxWFk5u5
 - 2023年系统架构设计师备考资料 链接：https://www.aliyundrive.com/s/ob1o2BeaVMb 提取码: 4v3y
 - 系统架构设计师 百度网盘：链接: https://pan.baidu.com/s/19LEiYbYIwnhBqheOiemOzg 密码:ghjh
@@ -187,7 +187,7 @@
 ## 10月24号
 
 - [x] 补视频 基础精讲 (软件工程/软件架构/数据库设计)
-  ![img_5.png](img_5.png)
+  ![img_5.png](image/img_5.png)
 
 ## 10月25号
 
@@ -200,7 +200,7 @@
     - 2020年上午真题
     - 2019年上午真题
 - [ ] 论文视频刷完
-  ![img_6.png](img_6.png)
+  ![img_6.png](image/img_6.png)
 
 - (McCabe度量方法计算程序复杂度)[https://blog.csdn.net/qq_43448856/article/details/123520356]
 
@@ -211,7 +211,7 @@
 ## 10月30号 星期一
 
 - 看完论文视频 干到凌晨2点
-- ![img_9.png](img_9.png)
+- ![img_9.png](image/img_9.png)
 - 根据自己项目写出一些通用模版 https://www.yuque.com/hakusai/gkr7pp/ob7v3l1dp0cyyb8g
 - 看完基础案例知识点 进行截图总结 https://www.yuque.com/hakusai/gkr7pp/ui5px2okz3x272so
 

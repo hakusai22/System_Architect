@@ -2,4 +2,4 @@
 
 > 03/22 报名通过 缴费完成
 
-![img_16.png](img_16.png)
+![img_16.png](image/img_16.png)
