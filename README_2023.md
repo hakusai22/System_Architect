@@ -12,17 +12,7 @@
 
 - ![img_12.png](img_12.png)
 
-<!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![MIT License][license-shield]][license-url]
-![GitHub top language](https://img.shields.io/github/languages/top/hakusai22/System_Architect?style=for-the-badge)
-
-<!-- PROJECT LOGO -->
 <br />
-
 
 <p align="center">
     <a href="https://github.com/hakusai22/System_Architect/">
@@ -34,34 +24,6 @@
     ·
     <a href="https://github.com/hakusai22/System_Architect/issues">提出新特性</a>
   </p>
-
-<!-- links -->
-
-[your-project-path]:hakusai22/System_Architect
-
-[contributors-shield]: https://img.shields.io/github/contributors/hakusai22/System_Architect.svg?style=for-the-badge
-
-[contributors-url]: https://github.com/hakusai22/System_Architect/graphs/contributors
-
-[forks-shield]: https://img.shields.io/github/forks/hakusai22/System_Architect.svg?style=for-the-badge
-
-[forks-url]: https://github.com/hakusai22/System_Architect/network/members
-
-[stars-shield]: https://img.shields.io/github/stars/hakusai22/System_Architect.svg?style=for-the-badge
-
-[stars-url]: https://github.com/hakusai22/System_Architect/stargazers
-
-[issues-shield]: https://img.shields.io/github/issues/hakusai22/System_Architect.svg?style=for-the-badge
-
-[issues-url]: https://img.shields.io/github/issues/hakusai22/System_Architect.svg
-
-[license-shield]: https://img.shields.io/github/license/hakusai22/System_Architect.svg?style=for-the-badge
-
-[license-url]: https://github.com/hakusai22/System_Architect/blob/master/LICENSE
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-
-[linkedin-url]: https://linkedin.com/in/xxxx
 
 ### 手机App刷题--软考通 免费  芝士架构 免费(芝士架构微信群还是有很多活跃的小伙伴 一起交流 押题) (wx群被解散了)
 

@@ -1,7 +1,17 @@
-# 系统架构设计师
+# 系统架构设计师记录
 
-> [系统架构师备考_2023文档记录](README_2023.md)  /// [系统架构师备考_2024文档记录](README_2024.md) 03_22更新
+<!-- PROJECT SHIELDS -->
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![MIT License][license-shield]][license-url]
+![GitHub top language](https://img.shields.io/github/languages/top/hakusai22/System_Architect?style=for-the-badge)
+<!-- PROJECT LOGO -->
+<br />
+- 2023 已经过去 2024 才刚开始
+
+> ⭐️[系统架构师备考_2023文档记录](README_2023.md)  //////   ⭐️[系统架构师备考_2024文档记录](README_2024.md) 03_22更新
 
 - 所有资料都是网上收集过来的 或者本人购买的 一个月后就过期了
 - 2023年系统架构设计师准备（软考高级） 一个月时间备考 11月3/4号 考试 (机考)
@@ -15,5 +25,33 @@
 - <b>[论文]</b> 选的可靠性评估(2200字 走题了 不好意思 哈哈哈 结果论文还过了分数线，我写的是公司的项目 从微服务/DB/中间件/系统稳定性写的)😆
 - 太丢人了作为后端开发  案例分析没有过 
  ![img_14.png](img_14.png)
+
+<!-- links -->
+
+[your-project-path]:hakusai22/System_Architect
+
+[contributors-shield]: https://img.shields.io/github/contributors/hakusai22/System_Architect.svg?style=for-the-badge
+
+[contributors-url]: https://github.com/hakusai22/System_Architect/graphs/contributors
+
+[forks-shield]: https://img.shields.io/github/forks/hakusai22/System_Architect.svg?style=for-the-badge
+
+[forks-url]: https://github.com/hakusai22/System_Architect/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/hakusai22/System_Architect.svg?style=for-the-badge
+
+[stars-url]: https://github.com/hakusai22/System_Architect/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues/hakusai22/System_Architect.svg?style=for-the-badge
+
+[issues-url]: https://img.shields.io/github/issues/hakusai22/System_Architect.svg
+
+[license-shield]: https://img.shields.io/github/license/hakusai22/System_Architect.svg?style=for-the-badge
+
+[license-url]: https://github.com/hakusai22/System_Architect/blob/master/LICENSE
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
+[linkedin-url]: https://linkedin.com/in/xxxx
 
 
