@@ -2,13 +2,17 @@
 
 <!-- PROJECT SHIELDS -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![MIT License][license-shield]][license-url]
-![GitHub top language](https://img.shields.io/github/languages/top/hakusai22/System_Architect?style=for-the-badge)
+<a href="https://github.com/hakusai22/System_Architect/">
+    <img src="https://img.shields.io/github/contributors/hakusai22/System_Architect" >
+</a>
+<a href="https://github.com/hakusai22/System_Architect/">
+    <img src="https://img.shields.io/github/forks/hakusai22/System_Architect" >
+</a>
+<a href="https://github.com/hakusai22/System_Architect/">
+    <img src="https://img.shields.io/github/stars/hakusai22/System_Architect" >
+</a>
+
 <!-- PROJECT LOGO -->
-<br />
 
 - 2023 已经过去 2024 才刚开始
 
