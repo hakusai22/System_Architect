@@ -45,10 +45,11 @@ https://www.alipan.com/s/a8ji1cZogJZ
 点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
 
 > 希赛视频
-> 2023 知识点详情解析
-> 链接：https://pan.baidu.com/s/1VQhuB_Yh9kczGVBzNWVjXA
-> 提取码：95km
-> 复制这段内容打开「百度网盘APP 即可获取
+
+2023 知识点详情解析
+链接：https://pan.baidu.com/s/1VQhuB_Yh9kczGVBzNWVjXA
+提取码：95km
+复制这段内容打开「百度网盘APP 即可获取
 
 <!-- links -->
 
