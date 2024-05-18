@@ -81,4 +81,4 @@ https://www.alipan.com/s/a8ji1cZogJZ
 
 ## star 趋势图
 
-![Stargazers over time](https://starchart.cc/System_Architect/douyin.svg)
+![Stargazers over time](https://starchart.cc/hakusai22/System_Architect.svg)
