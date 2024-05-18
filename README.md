@@ -79,4 +79,6 @@ https://www.alipan.com/s/a8ji1cZogJZ
 
 [linkedin-url]: https://linkedin.com/in/xxxx
 
+## star 趋势图
 
+![Stargazers over time](https://starchart.cc/System_Architect/douyin.svg)
