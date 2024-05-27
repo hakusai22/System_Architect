@@ -53,6 +53,10 @@ https://www.alipan.com/s/a8ji1cZogJZ
 
 <!-- links -->
 
+> 2024 总结
+https://juejin.cn/post/7372757076937359395
+![img.png](image/img_24.png)
+
 [your-project-path]:hakusai22/System_Architect
 
 [contributors-shield]: https://img.shields.io/github/contributors/hakusai22/System_Architect.svg?style=for-the-badge
