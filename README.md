@@ -24,6 +24,8 @@
 > 开心 😄 wx: hakusai22 可以交流经验
 ![img.png](img.png)
 
+- 感谢芝士架构红宝书+App刷题 https://docs.cheko.cc/bible/system_architectural_designer_bible.html
+
 ### 2023 心路历程
 
 - 个人介绍 00年后端开发 半年B端开发经验/两年C端海外App开发经验 (Java/Python/Go)
