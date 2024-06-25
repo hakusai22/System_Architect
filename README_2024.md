@@ -1,5 +1,7 @@
 # # 2024年系统架构设计师备考（软考高级）
 
+![img.png](img.png)
+
 > 03/22 报名通过 缴费完成
 
 
@@ -38,4 +40,5 @@
 
 ## 05/05 倒计时20天 开始复习
 
-![img.png](image/img23.png)
+- https://www.yuque.com/hakusai/gkr7pp/ych63iezwofm2yli#4qPz
+  ![img_1.png](img_1.png)
