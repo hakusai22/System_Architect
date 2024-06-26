@@ -21,10 +21,15 @@
 - ⭐️[30天系统架构师备考_2023文档记录](README_2023.md) 45/36/49
 - ⭐️[20天系统架构师备考_2024文档记录](README_2024.md) 52/46/45 05_05-05/25结束考试 2024过程总结: https://juejin.cn/post/7372757076937359395
 
-> 开心 😄 wx: hakusai22 可以交流经验
 ![img.png](img.png)
 
 - 感谢芝士架构红宝书+App刷题 https://docs.cheko.cc/bible/system_architectural_designer_bible.html
+- 300报名费+ 198芝士架构会员 总共500块 其他的就不算了
+
+> 舒服了舒服了 😄 wx: hakusai22 可以交流经验
+<div align=left>
+<img src="img_4.png" width = "200px" height = "200px">
+</div>
 
 ### 2023 心路历程
 
