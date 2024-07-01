@@ -26,7 +26,7 @@
 - 感谢芝士架构红宝书+App刷题 https://docs.cheko.cc/bible/system_architectural_designer_bible.html
 - 300报名费+ 198芝士架构会员 总共500块 其他的就不算了
 
-> 舒服了舒服了 😄 wx: hakusai22 可以交流经验
+> 舒服了舒服了 😄 wx: hakusai22 可以交流经验/ 杭州e类人才交流来
 <div align=left>
 <img src="img_4.png" width = "200px" height = "200px">
 </div>
