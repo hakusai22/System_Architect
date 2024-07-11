@@ -22,7 +22,9 @@
 - ⭐️[20天系统架构师备考_2024文档记录](README_2024.md) 52/46/45 05_05-05/25结束考试 2024过程总结: https://juejin.cn/post/7372757076937359395
 
 ![img.png](img.png)
+> 证书已出
 
+![img_3.png](img_3.png)
 - 感谢芝士架构红宝书+App刷题 https://docs.cheko.cc/bible/system_architectural_designer_bible.html
 - 300报名费+ 198芝士架构会员 总共500块 其他的就不算了
 
