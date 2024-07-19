@@ -33,18 +33,9 @@
 > 买了本书没事看看
 ![img_15.png](image/img_15.png)
 
-## 1. 视频资料复习 (30天到期)
+## 1. 视频资料复习
 
-- ![img.png](image/img.png)
-- 链接: https://pan.baidu.com/s/1wdLPmv5td6F4R99vjjkX6g  提取码: 95tp
-
-## 2. 视频资料复习 (30天到期)
-
-- ![img_1.png](image/img_1.png)
-- ![img_2.png](image/img_2.png)
-- 2023年系统架构设计师视频  https://www.aliyundrive.com/s/fe4qxWFk5u5
-- 2023年系统架构设计师备考资料 链接：https://www.aliyundrive.com/s/ob1o2BeaVMb 提取码: 4v3y
-- 系统架构设计师 百度网盘：链接: https://pan.baidu.com/s/19LEiYbYIwnhBqheOiemOzg 密码:ghjh
+## 2. 视频资料复习
 
 ## 3. 知识点网站阅读复习
 
@@ -96,7 +87,6 @@
 - [软考高级系统架构师论文到底该怎么写](https://mp.weixin.qq.com/s/E97YA-VktIoEmOCwZ2EUqg)
 - [希赛官方的真题集锦](https://www.educity.cn/rk/zhenti/jiagou/)
 - [公开真题吧](https://www.gkzenti.cn/paper?cls=%E8%BD%AF%E8%80%83&province=%E9%AB%98%E7%BA%A7_%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%B8%88)
-- 系统架构设计师 百度网盘：链接: https://pan.baidu.com/s/19LEiYbYIwnhBqheOiemOzg 密码:ghjh
 
 ### 10月16号 案例分析
 - 看案例必背知识点
