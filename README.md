@@ -1,4 +1,4 @@
-# 系统架构设计师记录
+# 系统架构设计师记录(E类人才已过)
 
 <!-- PROJECT SHIELDS -->
 
@@ -29,6 +29,8 @@
 - 300报名费+ 198芝士架构会员 总共500块 其他的就不算了
 
 > 舒服了舒服了 😄 wx: hakusai22 可以交流经验/ 杭州e类人才交流来
+
+![img_5.png](img_5.png)
 <div align=left>
 <img src="img_4.png" width = "200px" height = "200px">
 </div>
