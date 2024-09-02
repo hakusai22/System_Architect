@@ -1,5 +1,6 @@
 # 系统架构设计师记录(E类人才已过)
 
+# 可能大部分资料都已经过时了，大家还是需要具备筛选有用信息的能力✌️
 <!-- PROJECT SHIELDS -->
 
 <a href="https://github.com/hakusai22/System_Architect/">
