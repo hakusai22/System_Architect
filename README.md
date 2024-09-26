@@ -27,8 +27,10 @@
 <img src="img_4.png" align="left" width="298" height="321"  />
 
 > e类人才 已通过
+
 ![img_6.png](img_6.png)
 ![img_5.png](img_5.png)
+
 
 > 房补2500/月 已通过
 
