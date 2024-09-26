@@ -25,7 +25,7 @@
 > 可以交流软考经验/杭州e类人才/租房补贴 加我飞书 有问题看到 有时间都会回复 扫描二维码添加
 
 <p>
-  <img src="img_4.png" align="left" width="298" height="321" alt="">
+  <img src="img_4.png" width="298" height="321" alt="">
 </p>
 <br>
 
