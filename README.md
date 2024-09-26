@@ -27,7 +27,7 @@
 <p>
   <img src="img_4.png" width="298" height="321" alt="">
 </p>
-<br>
+<br/>
 
 ------------------
 > e类人才 已通过
