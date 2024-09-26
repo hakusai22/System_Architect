@@ -24,7 +24,7 @@
 
 > 可以交流经验/杭州e类人才交流来 加我飞书 有问题都 有时间都会回复 扫描二维码或者点击链接
 
-![img_4.png](img_4.png)
+<img src="img_4.png" align="left" width="298" height="321"  />
 
 > e类人才 已通过
 ![img_6.png](img_6.png)
