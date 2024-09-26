@@ -23,11 +23,10 @@
 - ⭐️[20天系统架构师备考_2024文档记录](README_2024.md) 52/46/45 05_05-05/25结束考试 2024过程总结: https://juejin.cn/post/7372757076937359395
 
 > 可以交流软考经验/杭州e类人才/租房补贴 加我飞书 有问题看到 有时间都会回复 扫描二维码添加
-<img src="img_4.png" align="left" width="298" height="321"  />
-<br/>
+<img src="img_4.png" align="left" width="298" height="321">
+<br>
 
 ------------------
-
 > e类人才 已通过
 ![img_6.png](img_6.png)
 ![img_5.png](img_5.png)
